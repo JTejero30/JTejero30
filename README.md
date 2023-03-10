@@ -1,6 +1,7 @@
 ### Hi there 👋
 markdown github
 
+!https://github.com/JTejero30/JTejero30/blob/main/assets/OIP.jfif
 <!--
 **JTejero30/JTejero30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
